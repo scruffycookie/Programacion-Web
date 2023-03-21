@@ -9,17 +9,18 @@
     <h1 class="menu">
         ADOPTA UN PELUDO</h1>
     <nav class="menu">   
-        <li class="menu"><a href="#">Inicio</a></li>
-        <li class="menu"><a href="#">Nosotros</a></li>
-        <li class="menu"><a href="#">Perro</a></li>
-        <li class="menu"><a href="#">Gato</a></li>
-        <li class="menu"><a href="#">Contacto</a></li>
+        <li ><button class="button">Inicio</button></li>
+        <li ><button class="button">Nosotros</button></li>
+        <li ><button class="button">Perro</button></li>
+        <li ><button class="button">Gato</button></li>
+        <li ><button class="button">Contacto</button></li>
     </nav>
 
     <section>
         <article class="block1">
             <h1>
-                titulo
+                
+                 titulo
             </h1>
             parrafo y muchas palabras
         </article>
@@ -44,8 +45,5 @@
     </section>
   </body>
 </html>
-
-
-
 
 
