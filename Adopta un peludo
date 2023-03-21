@@ -37,3 +37,8 @@
 .menu{
     color:antiquewhite;
 }
+.button{
+    background-color: none;
+    border:none;
+    color:white;
+}
