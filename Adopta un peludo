@@ -14,20 +14,36 @@
         <li class="menu"><a href="#">Perro</a></li>
         <li class="menu"><a href="#">Gato</a></li>
         <li class="menu"><a href="#">Contacto</a></li>
-
-
     </nav>
-        <ul>
-      <li>persona 1</li>
-      <li>persona 2</li>
-      <li>persona 3</li>
-    </ul>
+
+    <section>
+        <article class="block1">
+            <h1>
+                titulo
+            </h1>
+            parrafo y muchas palabras
+        </article>
+        <article class="block2">
+            <h1>
+                titulo
+            </h1>
+            parrafo y muchas palabras
+        </article>
+        <article class="block3">
+            <h1>
+                titulo
+            </h1>
+            parrafo y muchas palabras
+        </article>
+        <article class="block4">
+            <h1>
+                titulo
+            </h1>
+            parrafo y muchas palabras
+        </article>
+    </section>
   </body>
 </html>
-
-
-
-
 
 
 
