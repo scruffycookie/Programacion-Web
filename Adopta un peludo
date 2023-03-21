@@ -1,6 +1,36 @@
-.tag{
-    color:red;
+.block1{
+    background-color: cyan;
+    height: 150px;
+    color:white;
+    padding-left: 100px;
+    padding-top: 30px;
+    margin-left: 150px;
+    margin-top: none;
 }
-.tag2{
-    color:blueviolet;
+.block2{
+    background-color: yellow;
+    height: 150px;
+    color:white;
+    padding-left: 100px;
+    padding-top: 30px;
+    margin-left: 150px;
+}
+.block3{
+    background-color: orange;
+    height: 150px;
+    color:white;
+    padding-left: 100px;
+    padding-top: 30px;
+    margin-left: 150px;
+}
+.block4{
+    background-color:red;
+    height: 150px;
+    color:white;
+    padding-left: 100px;
+    padding-top: 30px;
+    margin-left: 150px;
+}
+.body{
+    background-color: black;
 }
