@@ -1,1 +1,18 @@
+<!DOCTYPE html>
+<html>
+  
 
+<head>
+    <title>My Simple Web Page</title>
+  </head>
+  <body>
+    <h1 class="tag">
+        ADOPTA UN PELUDO</h1>
+    <p>This is a paragraph of text. It can contain <strong>bold</strong> and <em>italic</em> text.</p>
+    <ul>
+      <li class="tag2">persona 1</li>
+      <li>persona 2</li>
+      <li>persona 3</li>
+    </ul>
+  </body>
+</html>
