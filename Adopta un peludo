@@ -5,26 +5,29 @@
 <head>
     <title>My Simple Web Page</title>
   </head>
-  <body>
-    <h1 class="tag">
+  <body class="body">
+    <h1 class="menu">
         ADOPTA UN PELUDO</h1>
-    <p>This is a paragraph of text. It can contain <strong>bold</strong> and <em>italic</em> text.</p>
-    <nav>   
-        <li><a href="#">Inicio</a></li>
-        <li><a href="#">Nosotros</a></li>
-        <li><a href="#">Perro</a></li>
-        <li><a href="#">Gato</a></li>
-        <li><a href="#">Contacto</a></li>
+    <nav class="menu">   
+        <li class="menu"><a href="#">Inicio</a></li>
+        <li class="menu"><a href="#">Nosotros</a></li>
+        <li class="menu"><a href="#">Perro</a></li>
+        <li class="menu"><a href="#">Gato</a></li>
+        <li class="menu"><a href="#">Contacto</a></li>
 
 
     </nav>
         <ul>
-      <li class="tag2">persona 1</li>
+      <li>persona 1</li>
       <li>persona 2</li>
       <li>persona 3</li>
     </ul>
   </body>
 </html>
+
+
+
+
 
 
 
