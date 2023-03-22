@@ -6,8 +6,6 @@
     <title>My Simple Web Page</title>
   </head>
   <body class="body">
-    <h1 class="menu">
-        ADOPTA UN PELUDO</h1>
     <nav class="menu">   
         <li ><button class="button">Inicio</button></li>
         <li ><button class="button">Nosotros</button></li>
@@ -20,30 +18,40 @@
         <article class="block1">
             <h1>
                 
-                 titulo
+                Lorem ipsum dolor sit amet
             </h1>
-            parrafo y muchas palabras
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
         </article>
         <article class="block2">
             <h1>
-                titulo
+                Lorem ipsum dolor sit amet
             </h1>
-            parrafo y muchas palabras
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
         </article>
         <article class="block3">
             <h1>
-                titulo
+                Lorem ipsum dolor sit amet
             </h1>
-            parrafo y muchas palabras
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
         </article>
         <article class="block4">
             <h1>
-                titulo
+                Lorem ipsum dolor sit amet
             </h1>
-            parrafo y muchas palabras
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
         </article>
     </section>
   </body>
 </html>
+
+
 
 
