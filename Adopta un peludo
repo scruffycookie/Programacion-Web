@@ -2,45 +2,62 @@
     background-color: cyan;
     height: 150px;
     color:white;
-    padding-left: 100px;
-    padding-top: 30px;
+    padding-left: 80px;
+    padding-top: 10px;
+    padding-right: 80px;
     margin-left: 150px;
-    margin-top: none;
+    margin-top: -150px;
+    margin-right: 70px;
+    font-family: sans-serif;
 }
 .block2{
     background-color: yellow;
     height: 150px;
     color:white;
-    padding-left: 100px;
-    padding-top: 30px;
+    padding-left: 80px;
+    padding-top: 10px;
+    padding-right: 80px;
     margin-left: 150px;
+    margin-right: 70px;
+    font-family: sans-serif;
 }
 .block3{
     background-color: orange;
     height: 150px;
     color:white;
-    padding-left: 100px;
-    padding-top: 30px;
+    padding-left: 80px;
+    padding-top: 10px;
+    padding-right: 80px;
     margin-left: 150px;
+    margin-right: 70px;
+    font-family: sans-serif;
 }
 .block4{
     background-color:red;
     height: 150px;
     color:white;
-    padding-left: 100px;
-    padding-top: 30px;
+    padding-left: 80px;
+    padding-top: 10px;
+    padding-right: 80px;
     margin-left: 150px;
+    margin-right: 70px;
+    font-family: sans-serif;
 }
 .body{
     background-color: black;
 }
 .menu{
-    color:antiquewhite;
+    color:black;
+    margin-top: 20px;
+    font-family: sans-serif;
 }
 .button{
-    background-color: none;
+    background-color: black;
     border:none;
     color:white;
+    font-size:large;
+    font-family:fantasy;
+    margin-bottom: 5px;
 }
 .button:hover {
     filter: brightness(60%);
