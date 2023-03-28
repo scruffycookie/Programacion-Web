@@ -3,7 +3,7 @@
 <html>
   
 <head>
-    <title>My Simple Web Page</title>
+    <title>Adopta un peludo</title>
   </head>
   <body class="body">
     <nav class="menu">   
@@ -18,39 +18,37 @@
         <article class="block1">
             <h1>
                 
-                Lorem ipsum dolor sit amet
+                Bienvenido a Adopta un peludo
             </h1>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+            En esta pagina web queremos facilitar el proceso de adopcion de animales, mas especifico de gatos y perros.
         </article>
         <article class="block2">
             <h1>
-                Lorem ipsum dolor sit amet
+                Nuestro perro en adopcion
             </h1>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+            <img src="Perro.jpg" alt="Nuestro hermoso perrito en adopcion, su nombre es chikito" width="150" height="110">
+                
+            Nuestro hermoso perrito en adopcion de nombre "chikito" tiene 3 mesese, fue encontrado solo en la calle bajo la lluvia
+                
         </article>
         <article class="block3">
             <h1>
-                Lorem ipsum dolor sit amet
+                Nuestro gato en adopcion
             </h1>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+            <img src="Gato.jpg" alt="Description of image" width="150" height="110">
+                Nuestro hermoso gato que tiene 4 meses fue encontrado con su mamá atropellada, necesita un hogar y una linda familia que le de el cariño materno que le falta 
         </article>
         <article class="block4">
             <h1>
-                Lorem ipsum dolor sit amet
+                Donaciones
             </h1>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+            Mandar un mensaje por whatsapp al +56945687289 para hablar con nuestro cordinador para poder donar, se aceptan todo tipo de Donaciones
+            Desde comida hasta dinero para nuestros animalitos
         </article>
     </section>
   </body>
 </html>
+
 
 
 
