@@ -1,7 +1,7 @@
 .block1{
     background-color: cyan;
     height: 200px;
-    color:rgba(177, 173, 173, 0.801);
+    color:rgba(145, 116, 116, 0.651);
     padding-left: 80px;
     padding-top: 10px;
     padding-right: 80px;
@@ -13,7 +13,7 @@
 .block2{
     background-color: yellow;
     height: 200px;
-    color:rgba(177, 173, 173, 0.801);
+    color:rgba(145, 116, 116, 0.651);
     padding-left: 80px;
     padding-top: 10px;
     padding-right: 80px;
@@ -24,7 +24,7 @@
 .block3{
     background-color: orange;
     height: 200px;
-    color:rgba(177, 173, 173, 0.801);
+    color:rgba(145, 116, 116, 0.651);
     padding-left: 80px;
     padding-top: 10px;
     padding-right: 80px;
@@ -35,7 +35,7 @@
 .block4{
     background-color:red;
     height: 200px;
-    color:rgba(177, 173, 173, 0.801);
+    color:rgba(211, 194, 194, 0.651);
     padding-left: 80px;
     padding-top: 10px;
     padding-right: 80px;
@@ -54,7 +54,7 @@
 .button{
     background-color: black;
     border:none;
-    color:rgba(177, 173, 173, 0.801);
+    color:rgb(255, 255, 255);
     font-size:large;
     font-family:sans-serif;
     margin-bottom: 5px;
