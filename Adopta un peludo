@@ -26,8 +26,7 @@
             <h1>
                 Nuestro perro en adopcion
             </h1>
-            <img src="Perro.jpg" alt="Nuestro hermoso perrito en adopcion, su nombre es chikito" width="150" height="110">
-                
+            <img src="Perro.jpg" alt="Nuestro hermoso perrito en adopcion, su nombre es chikito" width="150" height="110" style="float: left; margin-right: 10px;">         
             Nuestro hermoso perrito en adopcion de nombre "chikito" tiene 3 mesese, fue encontrado solo en la calle bajo la lluvia
                 
         </article>
@@ -35,8 +34,9 @@
             <h1>
                 Nuestro gato en adopcion
             </h1>
-            <img src="Gato.jpg" alt="Description of image" width="150" height="110">
-                Nuestro hermoso gato que tiene 4 meses fue encontrado con su mamá atropellada, necesita un hogar y una linda familia que le de el cariño materno que le falta 
+            <img src="Gato.jpg" alt="Description of image" width="150" height="110" style="float: left; margin-right: 10px;">
+                
+            Nuestro hermoso gato que tiene 4 meses fue encontrado con su mamá atropellada, necesita un hogar y una linda familia que le de el cariño materno que le falta 
         </article>
         <article class="block4">
             <h1>
@@ -48,8 +48,6 @@
     </section>
   </body>
 </html>
-
-
 
 
 
